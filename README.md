@@ -35,7 +35,7 @@ Python · Streamlit · Google Gemini API · Scikit-learn (TF-IDF) · pypdf
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-pdf-chatbot.git
+git clone https://github.com/haleetha06/ai-pdf-chatbot.git
 cd ai-pdf-chatbot
 pip install -r requirements.txt
 ```
